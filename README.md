@@ -15,7 +15,6 @@
 - 🤖 Building **AI-powered systems & assistants**  
 - 💡 Passionate about **AI, Cloud, Automation, and Full Stack Development**  
 - 🚀 Always open to **collaboration, internships, hackathons, and research**  
-- ⚡ Fun fact: *Introvert in real life, extrovert in tech discussions*  
 
 ---
 
