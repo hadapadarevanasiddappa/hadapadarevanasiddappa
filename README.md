@@ -6,12 +6,12 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Revana Siddappa</h1>
-<h3 align="center">Final-Year CSE (AI & ML) Student | Tech Explorer | Innovator</h3>
+<h3 align="center">Completed B.Tech Specialization in CSE (AI & ML) From Malla Reddy College of Engineering | Tech Explorer | Innovator</h3>
 
 ---
 
 ## 🌟 About Me
-- 🎓 **CSE (AI & ML)** | Final Year Student  
+- 🎓 **CSE (AI & ML)** | 
 - 🤖 Building **AI-powered systems & assistants**  
 - 💡 Passionate about **AI, Cloud, Automation, and Full Stack Development**  
 - 🚀 Always open to **collaboration, internships, hackathons, and research**  
